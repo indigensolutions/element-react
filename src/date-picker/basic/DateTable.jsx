@@ -429,5 +429,5 @@ DateTable.propTypes = {
 
 DateTable.defaultProps = {
   selectionMode: 'day',
-  firstDayOfWeek: 0
+  firstDayOfWeek: 1
 }
